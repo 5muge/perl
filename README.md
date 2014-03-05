@@ -1,4 +1,0 @@
-perl
-====
-
-learning perl 
